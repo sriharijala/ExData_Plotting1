@@ -70,6 +70,9 @@ plot1 <- function(file) {
 plot1("household_power_consumption.txt")
 ```
 
+![plot of plot1.png](./plot1.png) 
+
+
 ##My Plot 2
 
 ```r
@@ -94,6 +97,7 @@ plot2 <- function(file) {
 plot2("household_power_consumption.txt")
 
 ```
+![plot of plot2.png](./plot2.png) 
 
 ##My Plot 3
 
@@ -122,6 +126,7 @@ plot3 <- function(file) {
 
 plot3("household_power_consumption.txt")
 ```
+![plot of plot3.png](./plot3.png) 
 
 ##My Plot 4
 
@@ -167,4 +172,6 @@ plot4 <- function(file) {
 
 plot4("household_power_consumption.txt")
 ```
+![plot of plot4.png](./plot4.png) 
+
 
